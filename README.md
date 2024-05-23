@@ -1,4 +1,7 @@
 # Genetic Algorithm for the Knapsack Problem
+<div align="center">
+    <img src="./plot.png" alt=" Screenshot" />
+</div>
 
 ## Overview
 
